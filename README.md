@@ -1,4 +1,4 @@
-# ⚡ Jyotshna | AI/ML Engineer (Aspiring) | Full-Stack + ML Developer
+# ⚡ Jyotshna | AI/ML Enthusiast | Learning. Building. Improving in AI, ML & Software Development
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Jyotshna%20-%20AI%2FML%20Portfolio&fontSize=28&fontColor=ffffff"/>
@@ -6,137 +6,151 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jyotshna-0510&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/badge/Focus-AI%2FML%20Engineer-blue" />
-  <img src="https://img.shields.io/badge/Role-Full%20Stack%20%7C%20ML%20Developer-green" />
-  <img src="https://img.shields.io/badge/DSA-Java-orange" />
+  <img src="https://img.shields.io/badge/Focus-AI%2FML%20Learner-blue" />
+  <img src="https://img.shields.io/badge/Status-Student%20%7C%20Learning%20Stage-green" />
+  <img src="https://img.shields.io/badge/DSA-Java%20Practice-orange" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 👋 About Me
 
-🎓 B.Tech CSE (AI & ML) Student  
-💡 Passionate about building **AI systems + scalable software applications**  
-🧠 Strong focus on **Machine Learning, Deep Learning & System Design fundamentals**  
-💻 Practicing **Data Structures & Algorithms in Java** for problem solving  
-🚀 Interested in **end-to-end ML systems (training → deployment → production)**  
-
----
-
-## 🧠 Engineering Focus
-
-- Building real-world **AI/ML applications**
-- Learning **model deployment & full-stack ML systems**
-- Improving **problem-solving using Java DSA**
-- Exploring **Computer Vision & Remote Sensing AI systems**
-- Working towards becoming a **production-grade AI engineer**
+🎓 B.Tech in Computer Science Engineering (Artificial Intelligence & Machine Learning)  
+💡 Currently learning and strengthening my skills in AI, ML, DL, and Software Development  
+💻 Practicing Data Structures & Algorithms in Java alongside AI/ML projects  
+🌱 Focused on building strong fundamentals through real-world projects  
+🚀 Actively learning how to build end-to-end machine learning applications  
 
 ---
 
-## 🔥 Featured Project
+## 🧠 My Learning Journey
 
-# 🌱 Automated Vegetation Monitoring System (Satellite AI)
+- Learning **Artificial Intelligence, Machine Learning, and Deep Learning** concepts  
+- Applying knowledge through **real-time projects**  
+- Improving **Java-based Data Structures & Algorithms** for problem solving  
+- Exploring how AI systems are built, trained, and deployed  
 
-### 🎯 Objective
-Detect vegetation changes over time using multitemporal satellite images using deep learning.
+💡 My focus is on consistent learning and building practical understanding through implementation.
+
+---
+
+## 🔥 Featured Project (Most Important Project)
+
+# 🌱 Automated Vegetation Monitoring using Multitemporal Satellite Images
+
+---
+
+### 🎯 Project Goal
+To analyze vegetation changes over time using satellite imagery and detect environmental changes using machine learning and deep learning techniques.
 
 ---
 
 ### 💡 What I Built
-A full-stack AI system using **CF-HGNN-DP model** that processes TIFF satellite images and performs vegetation change detection.
+A working AI-based system using **CF-HGNN-DP model** that processes multitemporal TIFF satellite images and performs vegetation change detection.
 
 ---
 
 ### ✨ Key Features
-
-- Multitemporal TIFF satellite image processing  
-- Vegetation change classification (Gain / Loss / No Change)  
-- 2D & 3D visualization dashboard  
-- Performance metrics tracking  
-- Streamlit-based interactive UI  
+- Multitemporal satellite image processing (TIFF format)  
+- Vegetation gain / loss / no-change detection  
+- 2D and 3D visualization of results  
+- Performance metrics display  
+- Interactive Streamlit dashboard  
 - End-to-end ML pipeline integration  
 
 ---
 
-### 🧠 Tech Stack
+### 🧠 Technologies I Worked With
 
-**AI/ML:** PyTorch, Torch Geometric  
+**AI/ML:** PyTorch, Torch Geometric (learning & implementation)  
 **Data Processing:** NumPy, SciPy, Rasterio  
 **Visualization:** Matplotlib, Plotly  
-**Backend & Deployment:** Streamlit  
+**Deployment:** Streamlit  
 **Languages:** Python, Java  
 
 ---
 
 ### 🌐 Live Demo
+<p align="center">
 👉 https://jyotshna-0510-vegetation-change-detection-app-wzpxhk.streamlit.app/
+</p>
+
+---
 
 ### 💻 GitHub Repo
+<p align="center">
 👉 https://github.com/Jyotshna-0510/Vegetation-change-detection
+</p>
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills I Am Building
 
 ### 💻 Programming
-- Python (AI/ML Development)
-- Java (DSA & Problem Solving)
-- SQL
+- Python (for AI/ML projects)  
+- Java (for DSA and problem solving)  
+- SQL  
 
-### 🤖 AI / ML
-- Machine Learning Fundamentals
-- Deep Learning Basics
-- Computer Vision
-- Neural Networks (learning stage)
-- Remote Sensing AI
+---
+
+### 🤖 AI / ML / DL
+- Machine Learning fundamentals  
+- Deep Learning basics  
+- Computer Vision concepts  
+- Neural Networks (learning stage)  
+- Remote Sensing applications  
+
+---
 
 ### 🧰 Tools & Libraries
-- PyTorch
-- TensorFlow (basic)
-- Streamlit
-- NumPy, Pandas
-- OpenCV
-- Matplotlib
-
-### ⚙️ Tools & Platforms
-- Git & GitHub
-- VS Code
-- Jupyter Notebook
-- Google Colab
+- PyTorch (learning through projects)  
+- TensorFlow (basic exposure)  
+- Streamlit  
+- NumPy, Pandas  
+- Matplotlib  
+- OpenCV (basic usage)  
 
 ---
 
-## 📌 Other Projects
+### ⚙️ Tools
+- Git & GitHub  
+- VS Code  
+- Jupyter Notebook  
+- Google Colab  
+
+---
+
+## 📌 Other Projects (Learning Stage)
 
 ### 🫁 Pulmonary Disease Detection
-Deep learning-based medical image classification system (learning stage)
+Deep learning-based medical image classification project (learning stage)
 
 ### 📦 Shipping Delay Prediction
-Machine learning model for logistics delay prediction
+Machine learning project focused on prediction and analytics
 
 ---
 
-## 📈 Current Focus
-
-- Strengthening Java DSA
-- Improving ML/DL fundamentals
-- Building production-level AI projects
-- Learning system design for ML applications
-- Full-stack AI deployment workflows
+## 📈 What I Am Working On
+- Strengthening Java DSA for problem solving  
+- Improving ML/DL conceptual understanding  
+- Building more real-world AI projects  
+- Learning deployment and full-stack ML workflows  
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/Jyotshna-0510
-- Live Project: https://jyotshna-0510-vegetation-change-detection-app-wzpxhk.streamlit.app/
+- 🔗 GitHub: https://github.com/Jyotshna-0510  
+- 🌐 Live Project: https://jyotshna-0510-vegetation-change-detection-app-wzpxhk.streamlit.app/
 
 ---
 
-## ⭐ Closing Line
-
-> “Learning. Building. Deploying. Improving.”
+## ⭐ Final Quote
 
 <p align="center">
-<b>AI Engineer in Progress • Full-Stack ML Developer • Problem Solver</b>
+  <b>“Learning. Building. Improving.”</b>
+</p>
+
+<p align="center">
+  Learning • Building • Improving
 </p>
