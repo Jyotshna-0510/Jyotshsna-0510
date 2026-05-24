@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-🎓 B.Tech in Computer Science Engineering (AI & ML)
+🎓 B.Tech in Computer Science Engineering (Artificial Intelligence & Machine Learning)
 💡 Currently learning and strengthening my skills in AI, ML, DL, and Software Development
 💻 Practicing Data Structures & Algorithms in Java alongside AI/ML projects
 🌱 Focused on building strong fundamentals through real-world projects
